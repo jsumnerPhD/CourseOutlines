@@ -1,0 +1,113 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(./203-923-DW.tex
+LaTeX2e <2014/05/01>
+Babel <3.9k> and hyphenation patterns for 78 languages loaded.
+(./dawsoncourseoutline.cls
+Document Class: dawsoncourseoutline 2010/02/04 v.beta Physics Department
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/ifthen.sty)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/url/url.sty)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/tabulary/tabulary.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/tools/array.sty))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/graphics.cfg)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/pdftex-def/pdftex.def
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/infwarerr.sty)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ltxcmds.sty))))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/dingbat/dingbat.sty)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/bbding/bbding.sty)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/size10.clo))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/enumitem/enumitem.sty))
+(./title.tex) (./203-923-DW.aux)
+(/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifluatex.sty)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifpdf.sty))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/grfext.sty
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/etexcmds.sty)))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg))
+<./dawson.png, id=1, 483.30562pt x 158.09062pt> <use ./dawson.png>
+(./Teachers.tex) (./Prerequisites.tex) (./Corequisites.tex) (./Ponderation.tex)
+ (./CourseObjectives.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 2--30
+
+(./CourseCompetencies.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 12--32
+
+(../General/EvaluationIntro.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 1--34
+
+(./EvaluationGrid.tex
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 1--36
+
+(./ToPass.tex (../General/ToPass.tex))
+Underfull \hbox (badness 10000) in paragraph at lines 2--38
+
+(../General/EvaluationNote.tex
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/omscmr.fd))
+Underfull \hbox (badness 10000) in paragraph at lines 10--40
+
+(./Textbook.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 4--42
+
+(../General/TeachingMethods.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 1--44
+
+(../General/Attendance.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 1--46
+
+(../General/LiteracyStandards.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 1--48
+
+[1{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./daw
+son.png>] (../General/LabWork.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 1--50
+
+(../General/StudentObligations.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 1--52
+
+(../General/AcademicIntegrity.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 1--54
+
+(../General/Intensives.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 1--56
+
+(../General/ReligiousObservances.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 1--58
+
+(./CourseContent.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 19--60
+
+(./ComprehensiveAssessment.tex) (./Notes.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 10--64
+
+[2] (./Questions.tex (../General/Questions_noFC.tex))
+Underfull \hbox (badness 10000) in paragraph at lines 7--66
+
+[3] (./203-923-DW.aux) )
+(see the transcript file for additional information)</usr/local/texlive/2014/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2014/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2014/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2014/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2014/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2014/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2014/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2014/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2014/texmf-dist/font
+s/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on 203-923-DW.pdf (3 pages, 255539 bytes).
+Transcript written on 203-923-DW.log.
