@@ -14,6 +14,8 @@ for dir in *923*; do
     cd $dir
     pdflatex $dir.tex > pdflatex.log
     mv $dir.pdf $dir$session.pdf
+    rm *.log
+    rm *.aux
     cd ..
 done
 
