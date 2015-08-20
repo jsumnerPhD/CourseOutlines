@@ -117,8 +117,6 @@ $^\dag$\small Your teacher will provide a detailed breakdown of these components
 % Faculty contact info
 \newcommand\conted{ (Cont'Ed)}
 
-\newcommand\mbaryliuk{\item [Michelle Baryliuk-Raimbert] 7A.24, local 1751, \url{mraimbert@dawsoncollege.qc.ca}}
-
 \newcommand\croderick{\item [Chris Roderick] 7A.10, local 1758, \url{croderick@place.dawsoncollege.qc.ca}}
 
 \newcommand\jtrudeau{\item [Joel Trudeau] 7A.20, local 1753, \url{jtrudeau@place.dawsoncollege.qc.ca}}
@@ -137,7 +135,7 @@ $^\dag$\small Your teacher will provide a detailed breakdown of these components
 
 \newcommand\jsandoval{\item [Jaime Sandoval] 7A.18, local 1754, \url{jsandoval@dawsoncollege.qc.ca}}
 
-\newcommand\jli{\item [Jing Li] 7A.14, local 1755, \url{jli@dawsoncollege.qc.ca}}
+\newcommand\jli{\item [Jing Li] 7A.24, local 1751, \url{jli@dawsoncollege.qc.ca}}
 
 \newcommand\bassaf{	\item [Basim Assaf] 7A.14, local 1756, \url{physicsone@gmail.com}}
 
@@ -157,7 +155,7 @@ $^\dag$\small Your teacher will provide a detailed breakdown of these components
 
 \newcommand\astewart{\item [Andrew Stewart] 7A.24, local 1751, \url{anstewart@dawsoncollege.qc.ca}}
 
-\newcommand\mtoharia{\item [Manuel Toharia] 7B.21, local 1771, \url{mtoharia@dawsoncollege.qc.ca}}
+\newcommand\mtoharia{\item [Manuel Toharia] 7A.18, local 1754, \url{mtoharia@dawsoncollege.qc.ca}}
 
 \newcommand\hnadeau{\item [H\'el\`ene Nadeau] 7A.22, local 1752, \url{hnadeau@place.dawsoncollege.qc.ca}}
 
@@ -169,4 +167,4 @@ $^\dag$\small Your teacher will provide a detailed breakdown of these components
 
 \newcommand\niko{\item [Nikolaos Gryspolakis] 7B.19, local 1772, \url{ngryspolakis@dawsoncollege.qc.ca}}
 
-\newcommand\apronine{\item [Alex Pronine] 7A.18, local 1754, \url{apronine@dawsoncollege.qc.ca}}
+\newcommand\apronine{\item [Alex Pronine] 7B.21, local 1771, \url{apronine@dawsoncollege.qc.ca}}
