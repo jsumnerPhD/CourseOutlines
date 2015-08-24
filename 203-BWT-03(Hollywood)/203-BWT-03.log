@@ -1,0 +1,307 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.4.28)  23 AUG 2015 20:27
+entering extended mode
+**203-BWT-03.tex
+
+(C:\Users\jfbriere\Documents\GitHub\CourseOutlines\203-BWT-03(Hollywood)\203-BW
+T-03.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+
+(C:\Users\jfbriere\Documents\GitHub\CourseOutlines\203-BWT-03(Hollywood)\dawson
+courseoutline.cls
+Document Class: dawsoncourseoutline 2010/02/04 v.beta Physics Department
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\jfbriere\AppData\Roaming\MiKTeX\2.9\tex\latex\url\url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(C:\Users\jfbriere\AppData\Roaming\MiKTeX\2.9\tex\latex\tabulary\tabulary.sty
+Package: tabulary 2014/06/11 v0.10 tabulary package (DPC)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen102
+\extrarowheight=\dimen103
+\NC@list=\toks14
+\extratabsurround=\skip41
+\backup@length=\skip42
+)
+\TY@count=\count79
+\TY@linewidth=\dimen104
+\tymin=\dimen105
+\tymax=\dimen106
+\TY@tablewidth=\dimen107
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count80
+))
+\Gin@req@height=\dimen108
+\Gin@req@width=\dimen109
+)
+(C:\Users\jfbriere\AppData\Roaming\MiKTeX\2.9\tex\latex\dingbat\dingbat.sty
+Package: dingbat 2001/04/27 v1.00 Hands and other dingbats
+)
+(C:\Users\jfbriere\AppData\Roaming\MiKTeX\2.9\tex\latex\bbding\bbding.sty
+Package: bbding 1999/04/15 v1.01 Dingbats symbols
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip43
+\belowcaptionskip=\skip44
+\bibindent=\dimen110
+)
+(C:\Users\jfbriere\AppData\Roaming\MiKTeX\2.9\tex\latex\enumitem\enumitem.sty
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip45
+\enit@outerparindent=\dimen111
+\enit@toks=\toks16
+\enit@inbox=\box26
+\enitdp@description=\count89
+)
+\entrywidth=\skip46
+)
+(C:\Users\jfbriere\Documents\GitHub\CourseOutlines\203-BWT-03(Hollywood)\title.
+tex)
+(C:\Users\jfbriere\Documents\GitHub\CourseOutlines\203-BWT-03(Hollywood)\203-BW
+T-03.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+
+(C:\Users\jfbriere\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count90
+\scratchdimen=\dimen112
+\scratchbox=\box27
+\nofMPsegments=\count91
+\nofMParguments=\count92
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count93
+\MPscratchDim=\dimen113
+\MPnumerator=\count94
+\makeMPintoPDFobject=\count95
+\everyMPtoPDFconversion=\toks18
+) <./dawson.png, id=1, 483.30562pt x 158.09062pt>
+File: ./dawson.png Graphic file (type png)
+ <use ./dawson.png>
+Package pdftex.def Info: ./dawson.png used on input line 17.
+(pdftex.def)             Requested size: 135.50624pt x 44.32295pt.
+
+(C:\Users\jfbriere\Documents\GitHub\CourseOutlines\203-BWT-03(Hollywood)\Teache
+rs.tex
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 5.
+)
+(C:\Users\jfbriere\Documents\GitHub\CourseOutlines\203-BWT-03(Hollywood)\Prereq
+uisites.tex)
+(C:\Users\jfbriere\Documents\GitHub\CourseOutlines\203-BWT-03(Hollywood)\Corequ
+isites.tex)
+(C:\Users\jfbriere\Documents\GitHub\CourseOutlines\203-BWT-03(Hollywood)\Ponder
+ation.tex)
+(C:\Users\jfbriere\Documents\GitHub\CourseOutlines\203-BWT-03(Hollywood)\Course
+Objectives.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 7--30
+
+ []
+
+
+(C:\Users\jfbriere\Documents\GitHub\CourseOutlines\203-BWT-03(Hollywood)\Course
+Competencies.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 11--32
+
+ []
+
+(C:\Users\jfbriere\Documents\GitHub\CourseOutlines\General\EvaluationIntro.tex)
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--34
+
+ []
+
+
+(C:\Users\jfbriere\Documents\GitHub\CourseOutlines\203-BWT-03(Hollywood)\Evalua
+tionGrid.tex
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 1--36
+
+ []
+
+
+(C:\Users\jfbriere\Documents\GitHub\CourseOutlines\203-BWT-03(Hollywood)\Evalua
+tionNote.tex
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 11.
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 11.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 11--40
+
+ []
+
+
+(C:\Users\jfbriere\Documents\GitHub\CourseOutlines\203-BWT-03(Hollywood)\Textbo
+ok.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 14--42
+
+ []
+
+[1
+
+{C:/Users/jfbriere/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users
+/jfbriere/Documents/GitHub/CourseOutlines/203-BWT-03(Hollywood)/dawson.png>]
+(C:\Users\jfbriere\Documents\GitHub\CourseOutlines\203-BWT-03(Hollywood)\Teachi
+ngMethods.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 4--44
+
+ []
+
+
+(C:\Users\jfbriere\Documents\GitHub\CourseOutlines\203-BWT-03(Hollywood)\Attend
+ance.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 10--46
+
+ []
+
+
+(C:\Users\jfbriere\Documents\GitHub\CourseOutlines\General\LiteracyStandards.te
+x)
+Underfull \hbox (badness 10000) in paragraph at lines 1--48
+
+ []
+
+
+(C:\Users\jfbriere\Documents\GitHub\CourseOutlines\General\StudentObligations.t
+ex)
+Underfull \hbox (badness 10000) in paragraph at lines 1--52
+
+ []
+
+
+(C:\Users\jfbriere\Documents\GitHub\CourseOutlines\General\AcademicIntegrity.te
+x)
+Underfull \hbox (badness 10000) in paragraph at lines 1--54
+
+ []
+
+(C:\Users\jfbriere\Documents\GitHub\CourseOutlines\General\Intensives.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 1--56
+
+ []
+
+
+(C:\Users\jfbriere\Documents\GitHub\CourseOutlines\General\ReligiousObservances
+.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 1--58
+
+ []
+
+
+(C:\Users\jfbriere\Documents\GitHub\CourseOutlines\203-BWT-03(Hollywood)\Course
+Content.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 26--60
+
+ []
+
+[2]
+(C:\Users\jfbriere\Documents\GitHub\CourseOutlines\203-BWT-03(Hollywood)\Compre
+hensiveAssessment.tex)
+(C:\Users\jfbriere\Documents\GitHub\CourseOutlines\203-BWT-03(Hollywood)\Notes.
+tex)
+(C:\Users\jfbriere\Documents\GitHub\CourseOutlines\203-BWT-03(Hollywood)\Questi
+ons.tex
+(C:\Users\jfbriere\Documents\GitHub\CourseOutlines\General\Questions_noFC.tex))
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--66
+
+ []
+
+[3]
+(C:\Users\jfbriere\Documents\GitHub\CourseOutlines\203-BWT-03(Hollywood)\203-BW
+T-03.aux) ) 
+Here is how much of TeX's memory you used:
+ 1936 strings out of 493921
+ 30620 string characters out of 3144867
+ 86963 words of memory out of 3000000
+ 5173 multiletter control sequences out of 15000+200000
+ 5664 words of font info for 21 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 34i,10n,21p,874b,358s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+bx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx
+12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.
+pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb
+><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:
+/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/P
+rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Prog
+ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Progra
+m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on 203-BWT-03.pdf (3 pages, 261152 bytes).
+PDF statistics:
+ 49 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+

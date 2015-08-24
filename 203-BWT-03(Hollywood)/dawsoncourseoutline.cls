@@ -94,22 +94,26 @@
 
 $^\dag$\small Your teacher will provide a tentative test schedule during the first week of class.\\\vspace{-0.5em}}}
 
-\newcommand\evaluation[3]{%
+\newcommand\evaluation[5]{%
 	\parbox[t]{\entrysep}{\mbox{}}\hskip 1em\parbox[t]{\entrywidth}{
 	\begin{tabular}{p{0.4\textwidth} p{0.07\textwidth} p{0.07\textwidth}}
 		#1\\
 		#2\\
-		#3
+		#3\\
+		#4\\
+		#5
 	\end{tabular}\\
 
 $^\dag$\small Your teacher will provide a detailed breakdown of these components and a tentative test schedule during the first week of class.\\\vspace{-0.5em}}}
 
-\newcommand\notestevaluation[3]{%
+\newcommand\notestevaluation[5]{%
 	\parbox[t]{\entrysep}{\mbox{}}\hskip 1em\parbox[t]{\entrywidth}{
 	\begin{tabular}{p{0.4\textwidth} p{0.07\textwidth} p{0.07\textwidth}}
 		#1\\
 		#2\\
-		#3
+		#3\\
+		#4\\
+		#5
 	\end{tabular}\\
 
 $^\dag$\small Your teacher will provide a detailed breakdown of these components during the first week of class.\\\vspace{-0.5em}}}
