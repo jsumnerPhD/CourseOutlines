@@ -6,8 +6,8 @@
 \RequirePackage{url}
 \RequirePackage{tabulary}
 \RequirePackage{graphicx}
-\RequirePackage{dingbat}
-\RequirePackage{bbding}
+%\RequirePackage{dingbat}
+%\RequirePackage{bbding}
 \PassOptionsToClass{letterpaper,oneside,onecolumn}{article}
 \DeclareOption*{\PassOptionsToClass{\CurrentOption}{article}}
 \ExecuteOptions{draft}
@@ -135,16 +135,15 @@ $^\dag$\small Your teacher will provide a detailed breakdown of these components
 
 \newcommand\vfeshchenko{\item [Vladimir Feshchenko] 7A.8, local 4025, \url{vfeshchenko@place.dawsoncollege.qc.ca}}
 
-\newcommand\dglennie{\item [Diana Glennie] 7A.18, local ????, \url{dglennie@dawsoncollege.qc.ca}}%Missing local
+\newcommand\dglennie{\item [Diana Glennie] 7A.18, local 4076, \url{dglennie@dawsoncollege.qc.ca}}
 
 \newcommand\niko{\item [Nikolaos Gryspolakis] 7B.19, local 4155, \url{ngryspolakis@dawsoncollege.qc.ca}}
 
 \newcommand\khaile{\item [Kibreab Haile] 7B.21, local 4028, \url{khaile@dawsoncollege.qc.ca}}
 
-\newcommand\sujeewa{\item [Sujeewa Kumaratunga] 7A.16, local ????, \url{croderick@place.dawsoncollege.qc.ca}}%Missing local
+\newcommand\sujeewa{\item [Sujeewa Kumaratunga] 7A.16, local 4075, \url{croderick@place.dawsoncollege.qc.ca}}
 
-\newcommand\plagogiannis{\item [Philip Lagogiannis] 7A.14, local ????, \url{plagogiannis@place.dawsoncollege.qc.ca}}%Missing local
-
+\newcommand\plagogiannis{\item [Philip Lagogiannis] 7A.14, local 4074, \url{plagogiannis@place.dawsoncollege.qc.ca}}
 \newcommand\jli{\item [Jing Li] 7A.14, local ????, \url{jli@dawsoncollege.qc.ca}}%Missing local
 
 \newcommand\vmuntean{\item [Virgil Muntean] 7A.8, local 4026, \url{vmuntean@dawsoncollege.qc.ca}}
