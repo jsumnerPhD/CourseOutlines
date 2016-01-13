@@ -4,7 +4,7 @@ session="_Winter2016"
 
 # Batch file to generate course outlines for all directories starting 203
 
-for dir in *912*;do
+for dir in *924*;do
 echo 'Generating outline for' $dir
 
 # Copy template.tex
@@ -19,6 +19,8 @@ cp ./dawson.png ./$dir/dawson.png
 cd $dir
 pdflatex $dir.tex > pdflatex.log
 mv $dir.pdf $dir$session.pdf
+cp $dir$session.pdf ../Archive/$dir$session.pdf
+
 rm *.log
 rm *.aux
 cd ..
