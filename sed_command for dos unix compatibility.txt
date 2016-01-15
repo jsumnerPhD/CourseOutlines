@@ -1,1 +1,1 @@
-sed -i '/s"\r"/"\n"/' batch.sh
+sed -i 's/"\r"/"\n"/' batch.sh
