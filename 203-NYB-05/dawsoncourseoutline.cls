@@ -144,6 +144,7 @@ $^\dag$\small Your teacher will provide a detailed breakdown of these components
 \newcommand\sujeewa{\item [Sujeewa Kumaratunga] 7A.16, local 4075, \url{croderick@place.dawsoncollege.qc.ca}}
 
 \newcommand\plagogiannis{\item [Philip Lagogiannis] 7A.14, local 4074, \url{plagogiannis@place.dawsoncollege.qc.ca}}
+
 \newcommand\jli{\item [Jing Li] 7A.14, local ????, \url{jli@dawsoncollege.qc.ca}}%Missing local
 
 \newcommand\vmuntean{\item [Virgil Muntean] 7A.8, local 4026, \url{vmuntean@dawsoncollege.qc.ca}}
