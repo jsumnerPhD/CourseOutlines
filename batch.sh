@@ -1,10 +1,16 @@
+# If problem with /r characters, do the following
+# sed -i 's/"\r"/"\n"/' batch.sh
+# or try
+# dos2unix batch.sh
+
+
 #! /bin/bash
 
-session="_Winter2016"
+session="_Summer2016"
 
 # Batch file to generate course outlines for all directories starting 203
 
-for dir in *BZE*;do
+for dir in *001*;do
 echo 'Generating outline for' $dir
 
 # Copy template.tex
