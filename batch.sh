@@ -24,8 +24,7 @@ cp ./dawson.png ./$dir/dawson.png
 
 cd $dir
 pdflatex $dir.tex > pdflatex.log
-mv $dir.pdf $dir$session.pdf
-cp $dir$session.pdf ../Archive/$dir$session.pdf
+cp $dir.pdf ../Archive/$dir$session.pdf
 
 rm *.log
 rm *.aux
