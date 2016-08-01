@@ -6,11 +6,11 @@
 
 #! /bin/bash
 
-session="_Summer2016"
+session="_Fall2016"
 
 # Batch file to generate course outlines for all directories starting 203
 
-for dir in *001*;do
+for dir in *NYA*;do
 echo 'Generating outline for' $dir
 
 # Copy template.tex

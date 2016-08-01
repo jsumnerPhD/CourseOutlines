@@ -1,0 +1,17 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/MacPorts 2016_0) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(./203-NYA-05.tex
+LaTeX2e <2016/03/31>
+Babel <3.9r> and hyphenation patterns for 3 language(s) loaded.
+(./dawsoncourseoutline.cls
+Document Class: dawsoncourseoutline 2010/02/04 v.beta Physics Department
+(/opt/local/share/texmf-texlive/tex/latex/base/ifthen.sty)
+(/opt/local/share/texmf-texlive/tex/latex/url/url.sty)
+
+! LaTeX Error: File `tabulary.sty' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+
+Enter file name: 
