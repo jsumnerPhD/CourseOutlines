@@ -10,7 +10,8 @@ session="_Fall2016"
 
 # Batch file to generate course outlines for all directories starting 203
 
-for dir in *946*;do
+## FALL COURSE LIST ##
+for dir in *NYA* *NYB* *NYC* *001* *923* *946* *BXB* *925* *BWT* ;do
 echo 'Generating outline for' $dir
 
 # Copy template.tex
