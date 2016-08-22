@@ -14,6 +14,7 @@
 \ProcessOptions\relax
 \LoadClass{article}
 \RequirePackage{enumitem}
+\RequirePackage[svgnames]{xcolor}
 
 % MINIMAL CLASS DEFINITION REQUIREMENTS
 \renewcommand{\normalsize}{\fontsize{10pt}{12pt}\selectfont}
@@ -94,6 +95,17 @@
 
 $^\dag$\small Your teacher will provide a tentative test schedule during the first week of class.\\\vspace{-0.5em}}}
 
+\newcommand\evaluationfour[4]{%
+	\parbox[t]{\entrysep}{\mbox{}}\hskip 1em\parbox[t]{\entrywidth}{
+	\begin{tabular}{p{0.4\textwidth} p{0.07\textwidth} p{0.07\textwidth}}
+		#1\\
+		#2\\
+		#3\\
+		#4
+	\end{tabular}\\
+
+$^\dag$\small Your teacher will provide a tentative test schedule during the first week of class.\\\vspace{-0.5em}}}
+
 \newcommand\evaluation[3]{%
 	\parbox[t]{\entrysep}{\mbox{}}\hskip 1em\parbox[t]{\entrywidth}{
 	\begin{tabular}{p{0.4\textwidth} p{0.07\textwidth} p{0.07\textwidth}}
@@ -119,7 +131,7 @@ $^\dag$\small Your teacher will provide a detailed breakdown of these components
 
 \newcommand\bassaf{\item [Basim Assaf] 7A.14, local 4011, \url{physicsone@gmail.com}}
 
-\newcommand\mbaryliuk{\item [Michelle Baryliuk-Raimbert] 7A.24, local 4022, \url{mraimbert@dawsoncollege.qc.ca}}
+\newcommand\mbaryliuk{\item [$\mathCal{{\color{HotPink}{Michelle\ Baryliuk\textnormal{-}Raimbert}}}$] 7A.24, local 4022, \url{mraimbert@dawsoncollege.qc.ca}}
 
 \newcommand\sbhatnagar{\item [Sameer Bhatnagar] 7A.14, local 4010, \url{sbhatnagar@dawsoncollege.qc.ca}}
 
@@ -172,6 +184,8 @@ $^\dag$\small Your teacher will provide a detailed breakdown of these components
 \newcommand\jtrudeau{\item [Joel Trudeau] 7A.20, local 4019, \url{jtrudeau@dawsoncollege.qc.ca}}
 
 \newcommand\cwhittaker{\item [Chris Whittaker] 7A.24, local 4023, \url{cwhittaker@dawsoncollege.qc.ca} or Mio}
+
+\newcommand\dplouffe{\item [Dany Plouffe] 7A.24, local 4023, \url{dplouffe@dawsoncollege.qc.ca}}
 
 
 

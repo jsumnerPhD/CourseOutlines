@@ -94,6 +94,17 @@
 
 $^\dag$\small Your teacher will provide a tentative test schedule during the first week of class.\\\vspace{-0.5em}}}
 
+\newcommand\evaluationfour[4]{%
+	\parbox[t]{\entrysep}{\mbox{}}\hskip 1em\parbox[t]{\entrywidth}{
+	\begin{tabular}{p{0.4\textwidth} p{0.07\textwidth} p{0.07\textwidth}}
+		#1\\
+		#2\\
+		#3\\
+		#4
+	\end{tabular}\\
+
+$^\dag$\small Your teacher will provide a tentative test schedule during the first week of class.\\\vspace{-0.5em}}}
+
 \newcommand\evaluation[3]{%
 	\parbox[t]{\entrysep}{\mbox{}}\hskip 1em\parbox[t]{\entrywidth}{
 	\begin{tabular}{p{0.4\textwidth} p{0.07\textwidth} p{0.07\textwidth}}
