@@ -12,7 +12,7 @@ session="_Fall2016"
 
 ## FALL COURSE LIST ##
 for dir in *NYA* *NYB* *NYC* *BZE* *001* *923* *946* *925* *BWT* ;do
-#for dir in *DI*; do
+#for dir in *923*; do
 echo 'Generating outline for' $dir
 
 # Copy template.tex
