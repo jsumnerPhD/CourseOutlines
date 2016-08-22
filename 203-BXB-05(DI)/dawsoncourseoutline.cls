@@ -185,6 +185,8 @@ $^\dag$\small Your teacher will provide a detailed breakdown of these components
 
 \newcommand\cwhittaker{\item [Chris Whittaker] 7A.24, local 4023, \url{cwhittaker@dawsoncollege.qc.ca} or Mio}
 
+\newcommand\dplouffe{\item [Dany Plouffe] 7A.24, local 4023, \url{dplouffe@dawsoncollege.qc.ca}}
+
 
 
 % LIMBES 
