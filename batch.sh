@@ -1,18 +1,21 @@
+#! /bin/bash
+
+# Batch file to generate course outlines
+
 # If problem with /r characters, do the following
 # sed -i 's/"\r"/"\n"/' batch.sh
 # or try
 # dos2unix batch.sh
 
-
-#! /bin/bash
-
-session="_Fall2016"
-
-# Batch file to generate course outlines for all directories starting 203
+session="_Winter2016"
 
 ## FALL COURSE LIST ##
-#for dir in *NYA* *NYB* *NYC* *BZE* *001* *923* *946* *925* *BWT* ;do
-for dir in *Hollywood*; do
+#for dir in *BWT* *BXB* *BZE* *NYA* *NYB* *NYC* *001* *923* *925* *946* ; do
+
+## WINTER COURSE LIST ##
+#for dir in *BZA* *BZE* *NYA* *NYB* *NYC* *001* *912* *924* *943* *944* ; do
+for dir in *BZA* ; do
+
 echo 'Generating outline for' $dir
 
 # Copy template.tex
@@ -31,4 +34,5 @@ cp $dir.pdf ../Archive/$dir$session.pdf
 rm *.log
 rm *.aux
 cd ..
+
 done
