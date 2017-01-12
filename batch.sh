@@ -7,14 +7,14 @@
 # or try
 # dos2unix batch.sh
 
-session="_Winter2016"
+session="_Winter2017"
 
 ## FALL COURSE LIST ##
 #for dir in *BWT* *BXB* *BZE* *NYA* *NYB* *NYC* *001* *923* *925* *946* ; do
 
 ## WINTER COURSE LIST ##
-#for dir in *BZA* *BZE* *NYA* *NYB* *NYC* *001* *912* *924* *943* *944* ; do
-for dir in *BZA* ; do
+for dir in *BZA* *BZE* *NYA* *NYB* *NYC* *001* *912* *924* *943* *944* *Hollywood* ; do
+#for dir in *BZA* ; do
 
 echo 'Generating outline for' $dir
 
