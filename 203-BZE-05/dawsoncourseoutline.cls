@@ -153,7 +153,7 @@ $^\dag$\small Your teacher will provide a detailed breakdown of these components
 
 \newcommand\khaile{\item [Kibreab Haile] 7B.21, local 4028, \url{khaile@dawsoncollege.qc.ca}}
 
-\newcommand\sujeewa{\item [Sujeewa Kumaratunga] 7A.16, local 4075, \url{croderick@dawsoncollege.qc.ca}}
+\newcommand\sujeewa{\item [Sujeewa Kumaratunga] 7A.16, local 4075, \url{skumaratunga@dawsoncollege.qc.ca}}
 
 \newcommand\plagogiannis{\item [Philip Lagogiannis] 7A.14, local 4074, \url{plagogiannis@dawsoncollege.qc.ca}}
 
