@@ -187,6 +187,13 @@ $^\dag$\small Your teacher will provide a detailed breakdown of these components
 
 \newcommand\dplouffe{\item [Dany Plouffe] 7A.24, local 4023, \url{dplouffe@dawsoncollege.qc.ca}}
 
+\newcommand\jchoquette{\item [Jeremie Choquette] 7A.18, local 4476, \url{jchoquette@dawsoncollege.qc.ca}}
+
+\newcommand\ethibau{\item [Emmanuel Thibau] 7A.8,\url{ethibau@dawsoncollege.qc.ca}}
+
+\newcommand\clamela{\item [Cecilia Lamela] 7A.10, local 4476 \url{clamela@dawsoncollege.qc.ca}}
+
+
 
 
 % LIMBES 
