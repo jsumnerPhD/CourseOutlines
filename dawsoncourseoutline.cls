@@ -189,9 +189,9 @@ $^\dag$\small Your teacher will provide a detailed breakdown of these components
 
 \newcommand\jchoquette{\item [Jeremie Choquette] 7A.18, local 4476, \url{jchoquette@dawsoncollege.qc.ca}}
 
-\newcommand\ethibau{\item [Emmanuel Thibau] 7A.8,\url{ethibau@dawsoncollege.qc.ca}}
+\newcommand\ethibau{\item [Emmanuel Thibau] 7A.8, local 4236, \url{ethibau@dawsoncollege.qc.ca}}
 
-\newcommand\clamela{\item [Cecilia Lamela] 7A.10, local 4476 \url{clamela@dawsoncollege.qc.ca}}
+\newcommand\clamela{\item [Cecilia La Mela] 7A.10, local 4476 \url{clamela@dawsoncollege.qc.ca}}
 
 
 
