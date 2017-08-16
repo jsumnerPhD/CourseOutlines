@@ -131,7 +131,7 @@ $^\dag$\small Your teacher will provide a detailed breakdown of these components
 
 \newcommand\bassaf{\item [Basim Assaf] 7A.14, local 4011, \url{physicsone@gmail.com}}
 
-\newcommand\mbaryliuk{\item [$\mathCal{{\color{HotPink}{Michelle\ Baryliuk\textnormal{-}Raimbert}}}$] 7A.24, local 4022, \url{mraimbert@dawsoncollege.qc.ca}}
+\newcommand\mbaryliuk{\item [Michelle Baryliuk] 7A.24, local 4022, \url{mraimbert@dawsoncollege.qc.ca}}
 
 \newcommand\sbhatnagar{\item [Sameer Bhatnagar] 7A.14, local 4010, \url{sbhatnagar@dawsoncollege.qc.ca}}
 
@@ -153,7 +153,7 @@ $^\dag$\small Your teacher will provide a detailed breakdown of these components
 
 \newcommand\khaile{\item [Kibreab Haile] 7B.21, local 4028, \url{khaile@dawsoncollege.qc.ca}}
 
-\newcommand\sujeewa{\item [Sujeewa Kumaratunga] 7A.16, local 4075, \url{croderick@dawsoncollege.qc.ca}}
+\newcommand\sujeewa{\item [Sujeewa Kumaratunga] 7A.16, local 4075, \url{skumaratunga@dawsoncollege.qc.ca}}
 
 \newcommand\plagogiannis{\item [Philip Lagogiannis] 7A.14, local 4074, \url{plagogiannis@dawsoncollege.qc.ca}}
 
@@ -165,7 +165,7 @@ $^\dag$\small Your teacher will provide a detailed breakdown of these components
 
 \newcommand\jnaidj{\item [Jamileh Naidj] 7B.19, local 4154, \url{jnaidj@dawsoncollege.qc.ca}}
 
-\newcommand\apronine{\item [Alex Pronine] 7B.21, local 4029, \url{apronine@dawsoncollege.qc.ca}}
+\newcommand\apronine{\item [Alex Pronine] 7A.24, local 4029, \url{pro9physics@gmail.com}}
 
 \newcommand\srastikerdar{\item [Samad Rastikerdar] 7A.22, local 4020, \url{srastikerdar@dawsoncollege.qc.ca}}
 
@@ -186,6 +186,13 @@ $^\dag$\small Your teacher will provide a detailed breakdown of these components
 \newcommand\cwhittaker{\item [Chris Whittaker] 7A.24, local 4023, \url{cwhittaker@dawsoncollege.qc.ca} or Mio}
 
 \newcommand\dplouffe{\item [Dany Plouffe] 7A.24, local 4023, \url{dplouffe@dawsoncollege.qc.ca}}
+
+\newcommand\jchoquette{\item [Jeremie Choquette] 7A.18, local 4476, \url{jchoquette@dawsoncollege.qc.ca}}
+
+\newcommand\ethibau{\item [Emmanuel Thibau] 7A.8, local 4236, \url{ethibau@dawsoncollege.qc.ca}}
+
+\newcommand\clamela{\item [Cecilia La Mela] 7A.10, local 4476 \url{clamela@dawsoncollege.qc.ca}}
+
 
 
 
