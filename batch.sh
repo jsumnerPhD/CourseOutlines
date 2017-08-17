@@ -14,7 +14,9 @@ session="_Winter2017"
 
 ## WINTER COURSE LIST ##
 for dir in *BZA* *BZE* *NYA* *NYB* *NYC* *001* *912* *924* *943* *944* *Hollywood* ; do
-#for dir in *BZA* ; do
+
+## SINGLE SHOT ##
+#for dir in *NYA* ; do
 
 echo 'Generating outline for' $dir
 

@@ -187,6 +187,8 @@ $^\dag$\small Your teacher will provide a detailed breakdown of these components
 
 \newcommand\dplouffe{\item [Dany Plouffe] 7A.24, local 4023, \url{dplouffe@dawsoncollege.qc.ca}}
 
+\newcommand\clamela{\item [Cecilia La Mela] 7A10, \url{clamela@dawsoncollege.qc.ca}}
+
 
 
 % LIMBES 
