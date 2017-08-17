@@ -139,7 +139,7 @@ $^\dag$\small Your teacher will provide a detailed breakdown of these components
 
 \newcommand\jfbriere{\item [Jean-Fran\c cois Bri\`ere] 7A.16, local 4013, \url{jfbriere@dawsoncollege.qc.ca}}
 
-\newcommand\rdib{\item [Rim Dib] 7B.19, local 4153, \url{rdib@place.dawsoncollege.qc.ca}}
+\newcommand\rdib{\item [Rim Dib] 7B.19, local 4153, \url{rdib@dawsoncollege.qc.ca}}
 
 \newcommand\mdikeakos{\item [Maria Dikeakos] 7A.10, local 4009, \url{mdikeakos@dawsoncollege.qc.ca}}
 

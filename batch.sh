@@ -10,7 +10,8 @@
 session="_Fall2017"
 
 ## FALL COURSE LIST ##
-for dir in *BWT* *BXB* *BZE* *NYA* *NYB* *NYC* *001* *923* *925* *946* ; do
+#for dir in *BWT* *BXB* *BZE* *NYA* *NYB* *NYC* *001* *923* *925* *946* ; do
+for dir in *BXB* ; do
 
 ## WINTER COURSE LIST ##
 #for dir in *BZA* *BZE* *NYA* *NYB* *NYC* *001* *912* *924* *943* *944* *Hollywood* ; do
@@ -33,6 +34,8 @@ cp ./dawson.png ./$dir/dawson.png
 cd $dir
 pdflatex $dir.tex > pdflatex.log
 cp $dir.pdf ../Archive/$dir$session.pdf
+
+
 
 rm *.log
 rm *.aux
